@@ -565,6 +565,8 @@ nav ul li a.active, nav ul li a:hover{
 .resume-wrapper .education-item .school-content .school-degree{
     font-weight: bolder;
     font-size: 18px;
+    letter-spacing: 1px;
+    word-spacing: 3px;
     color: #49494a;
     opacity: .8;
     padding-bottom: 5px;
@@ -573,6 +575,7 @@ nav ul li a.active, nav ul li a:hover{
     font-size: 15px;
     color: #49494a;
     opacity: .8;
+    letter-spacing: 1px;
     word-spacing: 3px;
     font-weight: 500;
     text-transform: uppercase;
@@ -583,10 +586,13 @@ nav ul li a.active, nav ul li a:hover{
     color: #ffadb9;
     font-size: 14px;
     opacity: .99;
+    letter-spacing: 1px;
+    word-spacing: 2px;
     padding-top: 5px;
 }
 .resume-wrapper .interest .interest-wrapper{
     padding: 10px 40px;
+    
 }
 .resume-wrapper .interest .interest-item{
     margin: 10px;
