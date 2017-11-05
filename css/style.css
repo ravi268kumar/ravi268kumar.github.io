@@ -77,7 +77,7 @@ header{
     top: -116px;
 }
 .header-color{
-    background-color: #ffadb9;
+    background-color: #ffad95;
     background: transparent;
 
 }
@@ -96,7 +96,7 @@ nav ul li a{
     color: #49494a;
 }
 nav ul li a.active, nav ul li a:hover{
-    color: #ffadb9;
+    color: #ffad95;
     transition: .5s ease;
     /*border-bottom: 1px solid #49494a;*/
 }
@@ -114,7 +114,7 @@ nav ul li a.active, nav ul li a:hover{
 }
 .profile .info{
     padding: 10px;
-    background: #ffadb9;
+    background: #ffad95;
     text-align: center;
 }
 .profile .info img.profile-img{
@@ -158,13 +158,13 @@ nav ul li a.active, nav ul li a:hover{
     width: 100%;
     padding: 10px 30px;
     border-radius: 10px;
-    border: 2px solid #ffadb9;
+    border: 2px solid #ffad95;
     color: #49494a;
 }
 .profile .cv-box a:hover{
-    border: 2px solid #ffadb9;
+    border: 2px solid #ffad95;
     color: white;
-    background: #ffadb9;
+    background: #ffad95;
     transition: 0.5s ease;
 }
 
@@ -188,7 +188,7 @@ nav ul li a.active, nav ul li a:hover{
 .main-content .title .line{
     margin-left: 30px;
     width: 40px;
-    border: 1px solid #ffadb9;
+    border: 1px solid #ffad95;
 }
 .main-content .about p.content{
     font-size: 15px;
@@ -200,7 +200,7 @@ nav ul li a.active, nav ul li a:hover{
     text-align: justify;
 }
 .main-content .about p.content span{
-    color: #ffadb9;
+    color: #ffad95;
     
 }
 /*-----------------------------------
@@ -251,7 +251,7 @@ nav ul li a.active, nav ul li a:hover{
     font-size: 12px;
     word-spacing: 3px;
     letter-spacing: 1px;
-    border: 2px solid #ffadb9;
+    border: 2px solid #ffad95;
     text-transform: uppercase;
     text-decoration: none;
     cursor: pointer;
@@ -259,7 +259,7 @@ nav ul li a.active, nav ul li a:hover{
 }
 .portfolio .portfolio-item a:hover{
     color: white;
-    background: #ffadb9;
+    background: #ffad95;
     transition: .5s ease;
 }
 .view-more{
@@ -268,17 +268,17 @@ nav ul li a.active, nav ul li a:hover{
 }
 .view-more a{
     padding: 10px 30px;
-    background: #ffadb9;
+    background: #ffad95;
     color: #ffffff;
     text-decoration: none;
     text-transform: uppercase;
-    border: 2px solid #ffadb9;
+    border: 2px solid #ffad95;
     cursor: pointer;
 }
 .view-more a:hover{
     color: #49494a;
     background: transparent;
-    border: 2px solid #ffadb9;
+    border: 2px solid #ffad95;
     transition: .5s ease;
 }
 .social {
@@ -327,12 +327,12 @@ nav ul li a.active, nav ul li a:hover{
     margin-right: 50px;
 }
 .contact .details span{
-    color: #ffadb9;
+    color: #ffad95;
     
     text-transform: uppercase;
 }
 .contact .social-links .title{
-    color: #ffadb9;
+    color: #ffad95;
     font-size: 18px;
     word-spacing: 3px;
     letter-spacing: 1px;
@@ -365,13 +365,13 @@ nav ul li a.active, nav ul li a:hover{
     text-decoration: none;
 }
 .contact .social-links .social-link-item p a:hover{
-    color: #ffadb9;
+    color: #ffad95;
 }
 .contact .feedback-form{
     padding: 50px 0 0 0;
 }
 .contact .feedback-form .title{
-    color: #ffadb9;
+    color: #ffad95;
     font-size: 18px;
 }
 .contact .feedback-form .title img{
@@ -389,26 +389,26 @@ nav ul li a.active, nav ul li a:hover{
     width: 100%;
     margin: 10px 0;
     padding: 10px;
-    border: 1px solid #ffadb9;
+    border: 1px solid #ffad95;
     border-radius: 5px;
-    background: #ffffff;
+    background: #fdfefe;
 }
 .contact .feedback-form form input:focus,.contact .feedback-form form textarea:focus{
-    border-color: #ffadb9;
+    border-color: #ffad95;
 }
 
 .contact .feedback-form form .btn-submit{
     padding: 15px 40px;
     margin: 10px 0;
     border-radius: 5px;
-    border: 1px solid #ffadb9;
-    background: #ffadb9;
+    border: 1px solid #ffad95;
+    background: #ffad95;
     color: white;
 }
 .contact .feedback-form form .btn-submit:hover{
-    background: #ffffff;
-    color: #ffadb9;
-    border-color: #ffadb9;
+    background: #fdfefe;
+    color: #ffad95;
+    border-color: #ffad95;
     transition: .5s ease;
 }
 .address{
@@ -417,7 +417,7 @@ nav ul li a.active, nav ul li a:hover{
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: #ffffff;
+    background-color: #fdfefe;
 }
 .address-wrapper .title{
     font-size: 24px;
@@ -456,7 +456,7 @@ nav ul li a.active, nav ul li a:hover{
 }
 
 .resume-wrapper h2.title{
-    color: #ffadb9;
+    color: #ffad95;
     font-size: 18px;
     letter-spacing: 1px;
     word-spacing: 3px;
@@ -495,7 +495,7 @@ nav ul li a.active, nav ul li a:hover{
     text-align: justify;
 }
 .resume-wrapper .about p span{
-    color: #ffadb9;
+    color: #ffad95;
 
 }
 .resume-wrapper .skills .core-skills, .resume-wrapper .skills .other-skills{
@@ -511,10 +511,10 @@ nav ul li a.active, nav ul li a:hover{
     margin: 10px;
 }
 .border-1{
-    border: 2px solid #ffadb9;
+    border: 2px solid #ffad95;
 }
 .border-2{
-    border: 2px solid #ffadb9;
+    border: 2px solid #ffad95;
 }
 
 .resume-wrapper .skills .skill-cricle p{
@@ -547,7 +547,7 @@ nav ul li a.active, nav ul li a:hover{
     border-radius: 5px;
 }
 .resume-wrapper .skills .skill-progress .progress-bar{
-    background-color: #ffadb9 !important;
+    background-color: #ffad95 !important;
     border-radius: 5px;
 }
 .resume-wrapper .education-item{
@@ -583,7 +583,7 @@ nav ul li a.active, nav ul li a:hover{
 }
 
 .resume-wrapper .education-item .school-content p.year{
-    color: #ffadb9;
+    color: #ffad95;
     font-size: 14px;
     opacity: .99;
     letter-spacing: 1px;
@@ -598,7 +598,7 @@ nav ul li a.active, nav ul li a:hover{
     margin: 10px;
     padding: 15px;
     background-color: #fdfefe;
-    border: 1px solid #ffadb9;
+    border: 1px solid #ffad95;
     border-radius: 5px;
     text-align: center;
 }
