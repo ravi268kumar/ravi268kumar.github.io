@@ -290,6 +290,7 @@ nav ul li a.active, nav ul li a:hover{
     color: #ffffff;
     text-decoration: none;
     text-transform: uppercase;
+    border-radius: 18px;
     border: 1px solid #ff7457;
     cursor: pointer;
 }
